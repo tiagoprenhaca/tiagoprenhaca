@@ -43,7 +43,7 @@ Some technologies/tools that I am aware of:
       <img alt="Icon DotNet" src="https://github.com/tiagoprenhaca/tiagoprenhaca/blob/main/assets/img/netcore.png" width="50" />
     </a>
     <img alt="Icon CSharp" src="https://github.com/tiagoprenhaca/tiagoprenhaca/blob/main/assets/img/csharp.png" width="50" />
-    <a href="" target="_blank">
+    <a href="https://www.docker.com" target="_blank">
       <img alt="Icon Docker" src="https://github.com/tiagoprenhaca/tiagoprenhaca/blob/main/assets/img/docker.png" width="50" />
     </a>
     <a href="https://aws.amazon.com" target="_blank">
