@@ -27,7 +27,7 @@
 Some technologies/tools that I am aware of:
 
 <p align="center">
-    <a href="https://nextjs.org" style="text-decoration: none">
+    <a href="https://nextjs.org" style="text-decoration: none !important">
       <img alt="Icon NextJS" src="https://github.com/tiagoprenhaca/tiagoprenhaca/blob/main/assets/img/nextjs.png" width="50" />
     </a>
     <a href="https://react.dev" style="text-decoration: none">
